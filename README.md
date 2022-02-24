@@ -3,10 +3,10 @@
     <head>
         <meta charset="UTF-8"/>
         <link rel ="stylesheet" href="BMFW.css">
-        <titre>t-suba's Simple Website</titre>
+        <titre>This is a fork of Zactreis' BMFW</titre>
     </head>
     <body>
-        <h1> This is a fork of Zactreis' BMFW</h1>
+        <h1>t-suba's Simple Website to showcase stuff</h1>
 
 All credits go to https://twitter.com/drew_mc and https://twitter.com/gabehammersmith"
 
