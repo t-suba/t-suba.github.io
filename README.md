@@ -8,6 +8,6 @@
     <body>
         <h1>t-suba's Simple Website to showcase stuff</h1>
 
-All credits go to https://twitter.com/drew_mc and https://twitter.com/gabehammersmith"
+All credits go to https://twitter.com/drew_mc and https://twitter.com/gabehammersmith
 
 </html>
